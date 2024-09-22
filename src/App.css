@@ -8,7 +8,7 @@ body {
   background-position: center;
   margin: 0;
   font-family: Arial, sans-serif;
-  animation: moveBackground 5s infinite linear;
+  animation: moveBackground 10s infinite linear;
 }
 
 @keyframes moveBackground {
